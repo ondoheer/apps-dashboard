@@ -1,0 +1,13 @@
+/* line 2, ../scss/_estilos.scss */
+#container > header hgroup:before {
+  background: #d9593d url("../img/logodice.svg") center 5px no-repeat;
+  border: 5px solid #a13821;
+  border-radius: 50px;
+  content: '';
+  height: 80px;
+  padding: 5px;
+  position: absolute;
+  left: 0;
+  top: -23px;
+  width: 80px;
+}
